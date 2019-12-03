@@ -1,4 +1,4 @@
-# gworld-admin
+# the-background-admin
 
 ## Project setup
 ```
